@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/img3.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Person using a laptop and drinking coffee";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Meta front-end-developer Capstone Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a website for a fictional company called Little-Lemon. The website includes a landing page, a product page, and a contact page.",
+    url: "https://github.com/Chamika36/meta-front-end-developer-capstone",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Bougainvilla Restaurant Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a room booking website for a restaurant called Bougainvilla. The website includes a landing page, a room booking page, and a contact page.",
+    url: "https://bougainvilla.iamtrazy.tk/",
   },
   {
-    title: "My Resume Site",
+    title: "JustiBot",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A Law bot that allows users to create and manage a server economy, and play games with friends.",
+    url: "https://github.com/CodingBlinders/Justibot_Frontend",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "ArtRoom Studio Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a website for the ArtRoom studio. A full stack website centralized on the ArtRoom studio.",
+    url: "https://github.com/Chamika36/ArtRoom",
   },
 ];
 
